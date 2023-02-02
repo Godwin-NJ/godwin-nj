@@ -11,6 +11,7 @@
 
 **Languages and Tools:** <br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![ReactJS](https://img.shields.io/badge/-React-blue?logo=react&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.JS-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
