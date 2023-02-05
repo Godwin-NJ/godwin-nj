@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Godwin_NJ?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Godwin_NJ)
 
 ### Hi, I am Godwin Amadi a self-taught software developer who enjoys the craft of bringing solutions to life and the previledge of continuous learning as a developer.
-- 🔭 I’m currently working / building Asset and Pension management solutions with iTap Solutions. [iTap](https://www.itapsolutions.com/)
+- 🔭 I’m currently working / building Asset and Pension management solutions with iTap Solutions ltd. 
 - 💬 Brainstorm with me over tech, algorithms, career, Blockchain , Agric & Agric-Tech , FootBall 
 - 📫 How to reach me: amadigodwin7@gmail.com , https://twitter.com/Godwin_NJ 
 - ⚡ Fun fact: I'm still discovering my self 😄 , ⚡but I love watching Elite Footbal games ,⚡ I love seeing people genuinely happy and I ensure I maintain my self-peace in the midst of chaos, ⚡I love the Catholic Faith.
@@ -27,7 +27,7 @@
 ![GithubActions](https://img.shields.io/badge/-GithubActions-black?logo=githubactions&style=social)&nbsp;&nbsp;
 <!--
 **Godwin-NJ/godwin-nj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- - [iTap](https://www.itapsolutions.com/) -->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
