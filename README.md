@@ -25,8 +25,8 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express.js&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![GithubActions](https://img.shields.io/badge/-GithubActions-black?logo=githubactions&style=social)&nbsp;&nbsp;
-![Asp.net Core](https://img.shields.io/badge/-aspdotnetcore-black?logo=aspdotnetcore&style=social)&nbsp;&nbsp
-![C Sharp](https://img.shields.io/badge/-csharp-black?logo=csharp&style=social)&nbsp;&nbsp
+![Asp.net Core](https://img.shields.io/badge/-aspdotnetcore-black?logo=aspdotnetcore&style=social)&nbsp;&nbsp;
+![C Sharp](https://img.shields.io/badge/-csharp-black?logo=csharp&style=social)&nbsp;&nbsp;
 <!--
 **Godwin-NJ/godwin-nj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [iTap](https://www.itapsolutions.com/) 
